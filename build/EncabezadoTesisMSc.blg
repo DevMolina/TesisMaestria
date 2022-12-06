@@ -1,0 +1,84 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: EncabezadoTesisMSc.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: HojaTitulo/HojaTituloMSc.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Kap1/Kap1.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Kap2/Kap2.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Kap3/Kap3.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Kap4/Kap4.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Kap5/Kap5.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Kap6/Kap6.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Conc/Conc.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: Anexos/Anexos.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Database file #1: library.bib
+Warning--entry type for "Sustentable2014" isn't style-file defined
+--line 2 of file library.bib
+Warning--entry type for "ISR-UniversidaddeCoimbra2017" isn't style-file defined
+--line 9 of file library.bib
+Warning--entry type for "Bernal2016" isn't style-file defined
+--line 17 of file library.bib
+Warning--entry type for "AlvarezJauregui2020" isn't style-file defined
+--line 26 of file library.bib
+Warning--empty publisher in khanna2014
+Warning--can't use both author and editor fields in MartinPereda1976
+Warning--empty publisher in MartinPereda1976
+Warning--empty publisher in Mari2001
+Warning--empty publisher in Bishop2019
+Warning--empty publisher in J.C.Inkson2012
+Warning--can't use both volume and number fields in Hua2016
+Warning--empty publisher in Hua2016
+Warning--empty publisher in MoralesRivera2019
+You've used 92 entries,
+            1876 wiz_defined-function locations,
+            1110 strings with 25451 characters,
+and the built_in function-call counts, 30534 in all, are:
+= -- 3048
+> -- 1411
+< -- 0
++ -- 506
+- -- 414
+* -- 2342
+:= -- 4289
+add.period$ -- 102
+call.type$ -- 92
+change.case$ -- 86
+chr.to.int$ -- 0
+cite$ -- 101
+duplicate$ -- 1448
+empty$ -- 2567
+format.name$ -- 414
+if$ -- 7362
+int.to.chr$ -- 0
+int.to.str$ -- 92
+missing$ -- 96
+newline$ -- 289
+num.names$ -- 94
+pop$ -- 197
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1151
+stack$ -- 0
+substring$ -- 2348
+swap$ -- 733
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 9
+while$ -- 293
+width$ -- 94
+write$ -- 955
+(There were 13 warnings)
