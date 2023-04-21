@@ -1,12 +1,12 @@
 INFO:  latexindent.pl version 3.18, 2022-06-12, a script to indent .tex files
        latexindent.pl lives here: C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/scripts/latexindent/
-       Thu Sep 15 14:58:31 2022
-       Filename: d:/Maestria/TesisUPTC/Anexos/__latexindent_temp.tex
+       Fri Apr 21 16:28:05 2023
+       Filename: d:/USUARIO ydmolina/Documents/MaestriaTesis/TesisMaestria/Kap6/__latexindent_temp_Kap6.tex
 INFO:  Processing switches:
        -y|--yaml: YAML settings specified via command line
        -c|--cruft: cruft directory
-INFO:  Directory for backup files and d:/Maestria/TesisUPTC//indent.log:
-       d:/Maestria/TesisUPTC/
+INFO:  Directory for backup files and d:/USUARIO ydmolina/Documents/MaestriaTesis/TesisMaestria//indent.log:
+       d:/USUARIO ydmolina/Documents/MaestriaTesis/TesisMaestria/
 INFO:  Perl modules are being loaded from the following directories:
        C:/Strawberry/perl/lib/FindBin.pm
        C:/Strawberry/perl/vendor/lib/YAML/Tiny.pm
@@ -23,9 +23,9 @@ INFO:  YAML settings read: indentconfig.yaml or .indentconfig.yaml
        To specify user settings you would put indentconfig.yaml here: C:\Users\ydmolina/indentconfig.yaml
        Alternatively, you can use the hidden file .indentconfig.yaml as: C:\Users\ydmolina/.indentconfig.yaml
 INFO:  YAML settings read: -y switch
-       YAML setting: defaultIndent:'    '
-       single-quoted string found in -y switch: '    ', substitute to     
-       Updating mainSettings with defaultIndent:     
+       YAML setting: defaultIndent:'  '
+       single-quoted string found in -y switch: '  ', substitute to   
+       Updating mainSettings with defaultIndent:   
 INFO:  Phase 1: searching for objects
 INFO:  Phase 2: finding surrounding indentation
 INFO:  Phase 3: indenting objects

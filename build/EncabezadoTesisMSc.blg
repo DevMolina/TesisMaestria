@@ -24,13 +24,13 @@ Reallocating 'name_of_file' (item size: 1) to 7 items.
 The style file: ieeetr.bst
 Database file #1: library.bib
 Warning--entry type for "Sustentable2014" isn't style-file defined
---line 2 of file library.bib
+--line 3 of file library.bib
 Warning--entry type for "ISR-UniversidaddeCoimbra2017" isn't style-file defined
---line 9 of file library.bib
-Warning--entry type for "Bernal2016" isn't style-file defined
 --line 17 of file library.bib
+Warning--entry type for "Bernal2016" isn't style-file defined
+--line 33 of file library.bib
 Warning--entry type for "AlvarezJauregui2020" isn't style-file defined
---line 26 of file library.bib
+--line 51 of file library.bib
 Warning--empty publisher in khanna2014
 Warning--can't use both author and editor fields in MartinPereda1976
 Warning--empty publisher in MartinPereda1976

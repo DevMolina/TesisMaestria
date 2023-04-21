@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.15)  15 SEP 2022 15:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  21 APR 2023 16:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Maestria/TesisUPTC/EncabezadoTesisMSc.tex
-(d:/Maestria/TesisUPTC/EncabezadoTesisMSc.tex
+**"d:/USUARIO ydmolina/Documents/MaestriaTesis/TesisMaestria/EncabezadoTesisMSc.tex"
+(d:/USUARIO ydmolina/Documents/MaestriaTesis/TesisMaestria/EncabezadoTesisMSc.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-07-04> (C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbook.cls
 Document Class: scrbook 2022/07/04 v3.37 KOMA-Script document class (book)
@@ -597,10 +597,10 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \rotFPbot=\skip107
 \rot@float@box=\box68
 \rot@mess@toks=\toks32
-) (Befehle.sty) (d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.aux (d:\Maestria\TesisUPTC\build\HojaTitulo/HojaTituloMSc.aux)
+) (Befehle.sty) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.aux (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\HojaTitulo/HojaTituloMSc.aux)
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
- (d:\Maestria\TesisUPTC\build\Kap1/Kap1.aux) (d:\Maestria\TesisUPTC\build\Kap2/Kap2.aux) (d:\Maestria\TesisUPTC\build\Kap3/Kap3.aux) (d:\Maestria\TesisUPTC\build\Kap4/Kap4.aux) (d:\Maestria\TesisUPTC\build\Kap5/Kap5.aux) (d:\Maestria\TesisUPTC\build\Kap6/Kap6.aux) (d:\Maestria\TesisUPTC\build\Conc/Conc.aux) (d:\Maestria\TesisUPTC\build\Anexos/Anexos.aux))
+ (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap1/Kap1.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap2/Kap2.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap3/Kap3.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap4/Kap4.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap5/Kap5.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap6/Kap6.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Conc/Conc.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Anexos/Anexos.aux))
 \openout1 = `EncabezadoTesisMSc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
@@ -646,7 +646,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 67.
- (d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out) (d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out)
+ (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out)
 \@outlinefile=\write3
 \openout3 = `EncabezadoTesisMSc.out'.
 
@@ -748,7 +748,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--127
 
  []
 
-) [5] (d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.lof
+) [5] (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 Package tocbasic Info: Using my definition of `\numberline' on input line 3.
@@ -878,7 +878,7 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 69.
 
 LaTeX Info: Redefining \. on input line 86.
 LaTeX Info: Redefining \% on input line 86.
- [10] (d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.lot
+ [10] (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 Package tocbasic Info: Using my definition of `\numberline' on input line 6.
@@ -898,7 +898,7 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 13.
 
  [11
 
-] (d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.toc
+] (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.toc
 Package tocbasic Info: Using my definition of `\numberline' on input line 1.
 
 
@@ -1595,62 +1595,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--17
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--35
-
- []
-
 [43
 
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 41--50
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--51
 
  []
 
 <Kap6/FIG1.jpg, id=720, 767.5074pt x 576.17258pt>
 File: Kap6/FIG1.jpg Graphic file (type jpg)
 <use Kap6/FIG1.jpg>
-Package pdftex.def Info: Kap6/FIG1.jpg  used on input line 115.
+Package pdftex.def Info: Kap6/FIG1.jpg  used on input line 116.
 (pdftex.def)             Requested size: 398.33858pt x 299.0312pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 123.
-LaTeX Info: Redefining \% on input line 123.
+LaTeX Info: Redefining \. on input line 124.
+LaTeX Info: Redefining \% on input line 124.
  [44]
-Underfull \hbox (badness 10000) in paragraph at lines 124--134
+Underfull \hbox (badness 10000) in paragraph at lines 125--135
 
  []
 
 [45 <./Kap6/FIG1.jpg>]
-
-LaTeX Warning: Reference `' on page 46 undefined on input line 144.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--157
+Underfull \hbox (badness 10000) in paragraph at lines 145--158
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--171
+Underfull \hbox (badness 10000) in paragraph at lines 159--172
 
  []
 
-<Kap6/FIG2.jpg, id=741, 625.49686pt x 633.0852pt>
+<Kap6/FIG2.jpg, id=742, 625.49686pt x 633.0852pt>
 File: Kap6/FIG2.jpg Graphic file (type jpg)
 <use Kap6/FIG2.jpg>
-Package pdftex.def Info: Kap6/FIG2.jpg  used on input line 175.
+Package pdftex.def Info: Kap6/FIG2.jpg  used on input line 176.
 (pdftex.def)             Requested size: 469.47046pt x 475.17982pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 182.
-LaTeX Info: Redefining \% on input line 182.
+LaTeX Info: Redefining \. on input line 183.
+LaTeX Info: Redefining \% on input line 183.
  [46]
-Underfull \hbox (badness 10000) in paragraph at lines 183--195
+Underfull \hbox (badness 10000) in paragraph at lines 184--196
 
  []
 
@@ -1658,39 +1654,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--195
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [47 <./Kap6/FIG2.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 196--209
+Underfull \hbox (badness 10000) in paragraph at lines 197--210
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--231
+Underfull \hbox (badness 10000) in paragraph at lines 211--232
 
  []
 
 
 Underfull \vbox (badness 2409) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 231.
-LaTeX Info: Redefining \% on input line 231.
+LaTeX Info: Redefining \. on input line 232.
+LaTeX Info: Redefining \% on input line 232.
  [48]
-<Kap6/MH.png, id=770, 972.63374pt x 906.38625pt>
+<Kap6/MH.png, id=771, 972.63374pt x 906.38625pt>
 File: Kap6/MH.png Graphic file (type png)
 <use Kap6/MH.png>
-Package pdftex.def Info: Kap6/MH.png  used on input line 235.
+Package pdftex.def Info: Kap6/MH.png  used on input line 236.
 (pdftex.def)             Requested size: 469.47046pt x 437.4946pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--253
+Underfull \hbox (badness 10000) in paragraph at lines 242--254
 
  []
 
-<Kap6/FIG4.jpg, id=773, 717.82178pt x 513.29767pt>
+<Kap6/FIG4.jpg, id=774, 717.82178pt x 513.29767pt>
 File: Kap6/FIG4.jpg Graphic file (type jpg)
 <use Kap6/FIG4.jpg>
-Package pdftex.def Info: Kap6/FIG4.jpg  used on input line 257.
+Package pdftex.def Info: Kap6/FIG4.jpg  used on input line 258.
 (pdftex.def)             Requested size: 312.9803pt x 223.7996pt.
 ) [49]
 LaTeX Info: Redefining \. on input line 100.
@@ -1737,12 +1733,12 @@ Class scrbook Warning: You are using `\begin{appendix}...\end{appendix}'.
 (scrbook)              `\appendix' on input line 1.
 
 chapter A.
-<Anexos/x=0.png, id=799, 712.16063pt x 369.63094pt>
+<Anexos/x=0.png, id=800, 712.16063pt x 369.63094pt>
 File: Anexos/x=0.png Graphic file (type png)
 <use Anexos/x=0.png>
 Package pdftex.def Info: Anexos/x=0.png  used on input line 6.
 (pdftex.def)             Requested size: 469.47046pt x 243.66388pt.
-<Anexos/x=05.png, id=800, 713.66624pt x 365.86688pt>
+<Anexos/x=05.png, id=801, 713.66624pt x 365.86688pt>
 File: Anexos/x=05.png Graphic file (type png)
 <use Anexos/x=05.png>
 Package pdftex.def Info: Anexos/x=05.png  used on input line 13.
@@ -1750,7 +1746,7 @@ Package pdftex.def Info: Anexos/x=05.png  used on input line 13.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x=10.png, id=801, 711.4078pt x 367.3725pt>
+<Anexos/x=10.png, id=802, 711.4078pt x 367.3725pt>
 File: Anexos/x=10.png Graphic file (type png)
 <use Anexos/x=10.png>
 Package pdftex.def Info: Anexos/x=10.png  used on input line 20.
@@ -1758,7 +1754,7 @@ Package pdftex.def Info: Anexos/x=10.png  used on input line 20.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x=15.png, id=802, 715.17188pt x 363.60844pt>
+<Anexos/x=15.png, id=803, 715.17188pt x 363.60844pt>
 File: Anexos/x=15.png Graphic file (type png)
 <use Anexos/x=15.png>
 Package pdftex.def Info: Anexos/x=15.png  used on input line 28.
@@ -1766,7 +1762,7 @@ Package pdftex.def Info: Anexos/x=15.png  used on input line 28.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x=20.png, id=803, 716.6775pt x 368.1253pt>
+<Anexos/x=20.png, id=804, 716.6775pt x 368.1253pt>
 File: Anexos/x=20.png Graphic file (type png)
 <use Anexos/x=20.png>
 Package pdftex.def Info: Anexos/x=20.png  used on input line 35.
@@ -1774,7 +1770,7 @@ Package pdftex.def Info: Anexos/x=20.png  used on input line 35.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x=25.png, id=804, 715.92468pt x 368.87813pt>
+<Anexos/x=25.png, id=805, 715.92468pt x 368.87813pt>
 File: Anexos/x=25.png Graphic file (type png)
 <use Anexos/x=25.png>
 Package pdftex.def Info: Anexos/x=25.png  used on input line 42.
@@ -1782,7 +1778,7 @@ Package pdftex.def Info: Anexos/x=25.png  used on input line 42.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x=30.png, id=805, 716.6775pt x 369.63094pt>
+<Anexos/x=30.png, id=806, 716.6775pt x 369.63094pt>
 File: Anexos/x=30.png Graphic file (type png)
 <use Anexos/x=30.png>
 Package pdftex.def Info: Anexos/x=30.png  used on input line 49.
@@ -1790,7 +1786,7 @@ Package pdftex.def Info: Anexos/x=30.png  used on input line 49.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x=35.png, id=806, 721.19438pt x 360.59718pt>
+<Anexos/x=35.png, id=807, 721.19438pt x 360.59718pt>
 File: Anexos/x=35.png Graphic file (type png)
 <use Anexos/x=35.png>
 Package pdftex.def Info: Anexos/x=35.png  used on input line 56.
@@ -1798,7 +1794,7 @@ Package pdftex.def Info: Anexos/x=35.png  used on input line 56.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x=40.png, id=807, 721.19438pt x 357.58594pt>
+<Anexos/x=40.png, id=808, 721.19438pt x 357.58594pt>
 File: Anexos/x=40.png Graphic file (type png)
 <use Anexos/x=40.png>
 Package pdftex.def Info: Anexos/x=40.png  used on input line 63.
@@ -1806,7 +1802,7 @@ Package pdftex.def Info: Anexos/x=40.png  used on input line 63.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x=45.png, id=808, 718.18312pt x 368.1253pt>
+<Anexos/x=45.png, id=809, 718.18312pt x 368.1253pt>
 File: Anexos/x=45.png Graphic file (type png)
 <use Anexos/x=45.png>
 Package pdftex.def Info: Anexos/x=45.png  used on input line 70.
@@ -1824,12 +1820,12 @@ LaTeX Info: Redefining \. on input line 75.
 LaTeX Info: Redefining \% on input line 75.
  [58 <./Anexos/x=35.png> <./Anexos/x=40.png>] [59 <./Anexos/x=45.png>]
 chapter B.
-<Anexos/x00.png, id=834, 774.7344pt x 592.8549pt>
+<Anexos/x00.png, id=835, 774.7344pt x 592.8549pt>
 File: Anexos/x00.png Graphic file (type png)
 <use Anexos/x00.png>
 Package pdftex.def Info: Anexos/x00.png  used on input line 79.
 (pdftex.def)             Requested size: 341.43306pt x 261.27309pt.
-<Anexos/x05.png, id=835, 774.7344pt x 592.8549pt>
+<Anexos/x05.png, id=836, 774.7344pt x 592.8549pt>
 File: Anexos/x05.png Graphic file (type png)
 <use Anexos/x05.png>
 Package pdftex.def Info: Anexos/x05.png  used on input line 86.
@@ -1837,7 +1833,7 @@ Package pdftex.def Info: Anexos/x05.png  used on input line 86.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x10.png, id=836, 774.7344pt x 592.8549pt>
+<Anexos/x10.png, id=837, 774.7344pt x 592.8549pt>
 File: Anexos/x10.png Graphic file (type png)
 <use Anexos/x10.png>
 Package pdftex.def Info: Anexos/x10.png  used on input line 93.
@@ -1845,7 +1841,7 @@ Package pdftex.def Info: Anexos/x10.png  used on input line 93.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x15.png, id=837, 774.7344pt x 592.8549pt>
+<Anexos/x15.png, id=838, 774.7344pt x 592.8549pt>
 File: Anexos/x15.png Graphic file (type png)
 <use Anexos/x15.png>
 Package pdftex.def Info: Anexos/x15.png  used on input line 100.
@@ -1853,7 +1849,7 @@ Package pdftex.def Info: Anexos/x15.png  used on input line 100.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x20.png, id=838, 774.7344pt x 592.8549pt>
+<Anexos/x20.png, id=839, 774.7344pt x 592.8549pt>
 File: Anexos/x20.png Graphic file (type png)
 <use Anexos/x20.png>
 Package pdftex.def Info: Anexos/x20.png  used on input line 107.
@@ -1861,7 +1857,7 @@ Package pdftex.def Info: Anexos/x20.png  used on input line 107.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x25.png, id=839, 774.7344pt x 592.8549pt>
+<Anexos/x25.png, id=840, 774.7344pt x 592.8549pt>
 File: Anexos/x25.png Graphic file (type png)
 <use Anexos/x25.png>
 Package pdftex.def Info: Anexos/x25.png  used on input line 114.
@@ -1869,7 +1865,7 @@ Package pdftex.def Info: Anexos/x25.png  used on input line 114.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x30.png, id=840, 774.7344pt x 592.8549pt>
+<Anexos/x30.png, id=841, 774.7344pt x 592.8549pt>
 File: Anexos/x30.png Graphic file (type png)
 <use Anexos/x30.png>
 Package pdftex.def Info: Anexos/x30.png  used on input line 121.
@@ -1877,7 +1873,7 @@ Package pdftex.def Info: Anexos/x30.png  used on input line 121.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x35.png, id=841, 774.7344pt x 592.8549pt>
+<Anexos/x35.png, id=842, 774.7344pt x 592.8549pt>
 File: Anexos/x35.png Graphic file (type png)
 <use Anexos/x35.png>
 Package pdftex.def Info: Anexos/x35.png  used on input line 128.
@@ -1885,7 +1881,7 @@ Package pdftex.def Info: Anexos/x35.png  used on input line 128.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x40.png, id=842, 774.7344pt x 592.8549pt>
+<Anexos/x40.png, id=843, 774.7344pt x 592.8549pt>
 File: Anexos/x40.png Graphic file (type png)
 <use Anexos/x40.png>
 Package pdftex.def Info: Anexos/x40.png  used on input line 135.
@@ -1893,7 +1889,7 @@ Package pdftex.def Info: Anexos/x40.png  used on input line 135.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/x45.png, id=843, 774.7344pt x 592.8549pt>
+<Anexos/x45.png, id=844, 774.7344pt x 592.8549pt>
 File: Anexos/x45.png Graphic file (type png)
 <use Anexos/x45.png>
 Package pdftex.def Info: Anexos/x45.png  used on input line 142.
@@ -1908,12 +1904,12 @@ LaTeX Info: Redefining \. on input line 147.
 LaTeX Info: Redefining \% on input line 147.
  [64 <./Anexos/x35.png> <./Anexos/x40.png>] [65 <./Anexos/x45.png>]
 chapter C.
-<Kap5/sec2k.png, id=879, 445.665pt x 444.7014pt>
+<Kap5/sec2k.png, id=880, 445.665pt x 444.7014pt>
 File: Kap5/sec2k.png Graphic file (type png)
 <use Kap5/sec2k.png>
 Package pdftex.def Info: Kap5/sec2k.png  used on input line 152.
 (pdftex.def)             Requested size: 341.43306pt x 340.6976pt.
-<Kap5/sec5k.png, id=880, 447.1104pt x 444.2196pt>
+<Kap5/sec5k.png, id=881, 447.1104pt x 444.2196pt>
 File: Kap5/sec5k.png Graphic file (type png)
 <use Kap5/sec5k.png>
 Package pdftex.def Info: Kap5/sec5k.png  used on input line 161.
@@ -1921,7 +1917,7 @@ Package pdftex.def Info: Kap5/sec5k.png  used on input line 161.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Kap5/sec10k.png, id=881, 446.6286pt x 445.1832pt>
+<Kap5/sec10k.png, id=882, 446.6286pt x 445.1832pt>
 File: Kap5/sec10k.png Graphic file (type png)
 <use Kap5/sec10k.png>
 Package pdftex.def Info: Kap5/sec10k.png  used on input line 170.
@@ -1929,7 +1925,7 @@ Package pdftex.def Info: Kap5/sec10k.png  used on input line 170.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Kap5/ret2k.png, id=882, 446.1468pt x 445.665pt>
+<Kap5/ret2k.png, id=883, 446.1468pt x 445.665pt>
 File: Kap5/ret2k.png Graphic file (type png)
 <use Kap5/ret2k.png>
 Package pdftex.def Info: Kap5/ret2k.png  used on input line 179.
@@ -1937,7 +1933,7 @@ Package pdftex.def Info: Kap5/ret2k.png  used on input line 179.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Kap5/ret5k.png, id=883, 445.665pt x 445.665pt>
+<Kap5/ret5k.png, id=884, 445.665pt x 445.665pt>
 File: Kap5/ret5k.png Graphic file (type png)
 <use Kap5/ret5k.png>
 Package pdftex.def Info: Kap5/ret5k.png  used on input line 188.
@@ -1945,7 +1941,7 @@ Package pdftex.def Info: Kap5/ret5k.png  used on input line 188.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Kap5/ret20k.png, id=884, 447.1104pt x 443.7378pt>
+<Kap5/ret20k.png, id=885, 447.1104pt x 443.7378pt>
 File: Kap5/ret20k.png Graphic file (type png)
 <use Kap5/ret20k.png>
 Package pdftex.def Info: Kap5/ret20k.png  used on input line 197.
@@ -1953,7 +1949,7 @@ Package pdftex.def Info: Kap5/ret20k.png  used on input line 197.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Kap5/ret90k.png, id=885, 447.5922pt x 444.7014pt>
+<Kap5/ret90k.png, id=886, 447.5922pt x 444.7014pt>
 File: Kap5/ret90k.png Graphic file (type png)
 <use Kap5/ret90k.png>
 Package pdftex.def Info: Kap5/ret90k.png  used on input line 206.
@@ -1974,12 +1970,12 @@ LaTeX Info: Redefining \. on input line 212.
 LaTeX Info: Redefining \% on input line 212.
  [72 <./Kap5/ret90k.png>]
 chapter D.
-<Kap5/TamG0.png, id=922, 694.9965pt x 562.9833pt>
+<Kap5/TamG0.png, id=923, 694.9965pt x 562.9833pt>
 File: Kap5/TamG0.png Graphic file (type png)
 <use Kap5/TamG0.png>
 Package pdftex.def Info: Kap5/TamG0.png  used on input line 217.
 (pdftex.def)             Requested size: 369.88582pt x 299.63393pt.
-<Kap5/TamG1.png, id=923, 694.9965pt x 551.9019pt>
+<Kap5/TamG1.png, id=924, 694.9965pt x 551.9019pt>
 File: Kap5/TamG1.png Graphic file (type png)
 <use Kap5/TamG1.png>
 Package pdftex.def Info: Kap5/TamG1.png  used on input line 224.
@@ -1987,7 +1983,7 @@ Package pdftex.def Info: Kap5/TamG1.png  used on input line 224.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Kap5/TamG5.png, id=924, 700.0554pt x 562.9833pt>
+<Kap5/TamG5.png, id=925, 700.0554pt x 562.9833pt>
 File: Kap5/TamG5.png Graphic file (type png)
 <use Kap5/TamG5.png>
 Package pdftex.def Info: Kap5/TamG5.png  used on input line 231.
@@ -1995,7 +1991,7 @@ Package pdftex.def Info: Kap5/TamG5.png  used on input line 231.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Kap5/TamG9.png, id=925, 680.0607pt x 551.9019pt>
+<Kap5/TamG9.png, id=926, 680.0607pt x 551.9019pt>
 File: Kap5/TamG9.png Graphic file (type png)
 <use Kap5/TamG9.png>
 Package pdftex.def Info: Kap5/TamG9.png  used on input line 238.
@@ -2013,12 +2009,12 @@ LaTeX Info: Redefining \. on input line 242.
 LaTeX Info: Redefining \% on input line 242.
  [76 <./Kap5/TamG9.png>]
 chapter E.
-<Anexos/EDXG0.png, id=947, 628.5081pt x 513.8397pt>
+<Anexos/EDXG0.png, id=948, 628.5081pt x 513.8397pt>
 File: Anexos/EDXG0.png Graphic file (type png)
 <use Anexos/EDXG0.png>
 Package pdftex.def Info: Anexos/EDXG0.png  used on input line 247.
 (pdftex.def)             Requested size: 469.47046pt x 383.81856pt.
-<Anexos/EDXG1.png, id=948, 623.6901pt x 502.7583pt>
+<Anexos/EDXG1.png, id=949, 623.6901pt x 502.7583pt>
 File: Anexos/EDXG1.png Graphic file (type png)
 <use Anexos/EDXG1.png>
 Package pdftex.def Info: Anexos/EDXG1.png  used on input line 254.
@@ -2026,7 +2022,7 @@ Package pdftex.def Info: Anexos/EDXG1.png  used on input line 254.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/EDXG5.png, id=949, 628.749pt x 502.7583pt>
+<Anexos/EDXG5.png, id=950, 628.749pt x 502.7583pt>
 File: Anexos/EDXG5.png Graphic file (type png)
 <use Anexos/EDXG5.png>
 Package pdftex.def Info: Anexos/EDXG5.png  used on input line 261.
@@ -2034,7 +2030,7 @@ Package pdftex.def Info: Anexos/EDXG5.png  used on input line 261.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Anexos/EDXG9.png, id=950, 626.5809pt x 513.8397pt>
+<Anexos/EDXG9.png, id=951, 626.5809pt x 513.8397pt>
 File: Anexos/EDXG9.png Graphic file (type png)
 <use Anexos/EDXG9.png>
 Package pdftex.def Info: Anexos/EDXG9.png  used on input line 268.
@@ -2050,7 +2046,7 @@ LaTeX Info: Redefining \% on input line 102.
  [78 <./Anexos/EDXG1.png>] [79 <./Anexos/EDXG5.png>]
 LaTeX Info: Redefining \. on input line 102.
 LaTeX Info: Redefining \% on input line 102.
- [80 <./Anexos/EDXG9.png>] (d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.bbl [81
+ [80 <./Anexos/EDXG9.png>] (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.bbl [81
 
 
 
@@ -2100,31 +2096,28 @@ LaTeX Info: Redefining \% on input line 487.
 [91])
 LaTeX Info: Redefining \. on input line 109.
 LaTeX Info: Redefining \% on input line 109.
- [92] (d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.aux (d:\Maestria\TesisUPTC\build\HojaTitulo/HojaTituloMSc.aux)
+ [92] (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.aux (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\HojaTitulo/HojaTituloMSc.aux)
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
- (d:\Maestria\TesisUPTC\build\Kap1/Kap1.aux) (d:\Maestria\TesisUPTC\build\Kap2/Kap2.aux) (d:\Maestria\TesisUPTC\build\Kap3/Kap3.aux) (d:\Maestria\TesisUPTC\build\Kap4/Kap4.aux) (d:\Maestria\TesisUPTC\build\Kap5/Kap5.aux) (d:\Maestria\TesisUPTC\build\Kap6/Kap6.aux) (d:\Maestria\TesisUPTC\build\Conc/Conc.aux) (d:\Maestria\TesisUPTC\build\Anexos/Anexos.aux))
+ (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap1/Kap1.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap2/Kap2.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap3/Kap3.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap4/Kap4.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap5/Kap5.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap6/Kap6.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Conc/Conc.aux) (d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Anexos/Anexos.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `EncabezadoTesisMSc.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 17877 strings out of 478338
- 325557 string characters out of 2835284
+ 17876 strings out of 478338
+ 328767 string characters out of 2835284
  807275 words of memory out of 3000000
- 35586 multiletter control sequences out of 15000+600000
+ 35585 multiletter control sequences out of 15000+600000
  482980 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,20n,106p,10635b,824s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 108i,20n,106p,10673b,824s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\ydmolina\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/ydmolina/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.pdf (104 pages, 60695142 bytes).
+Output written on "d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.pdf" (104 pages, 60695208 bytes).
 PDF statistics:
- 1266 PDF objects out of 1440 (max. 8388607)
+ 1267 PDF objects out of 1440 (max. 8388607)
  302 named destinations out of 1000 (max. 500000)
  529 words of extra memory for PDF output out of 10000 (max. 10000000)
 

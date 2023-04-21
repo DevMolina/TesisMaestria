@@ -1,7 +1,7 @@
-PWD d:\Maestria\TesisUPTC
+PWD d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria
 INPUT C:\Users\ydmolina\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Maestria\TesisUPTC\EncabezadoTesisMSc.tex
-OUTPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.log
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\EncabezadoTesisMSc.tex
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.log
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbook.cls
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbook.cls
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbook.cls
@@ -901,37 +901,37 @@ INPUT .\Befehle.sty
 INPUT Befehle.sty
 INPUT .\Befehle.sty
 INPUT Befehle.sty
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.aux
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.aux
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.aux
-INPUT d:\Maestria\TesisUPTC\build\HojaTitulo\HojaTituloMSc.aux
-INPUT d:\Maestria\TesisUPTC\build\HojaTitulo\HojaTituloMSc.aux
-INPUT d:\Maestria\TesisUPTC\build\HojaTitulo\HojaTituloMSc.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap1\Kap1.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap1\Kap1.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap1\Kap1.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap2\Kap2.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap2\Kap2.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap2\Kap2.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap3\Kap3.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap3\Kap3.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap3\Kap3.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap4\Kap4.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap4\Kap4.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap4\Kap4.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap5\Kap5.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap5\Kap5.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap5\Kap5.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap6\Kap6.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap6\Kap6.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap6\Kap6.aux
-INPUT d:\Maestria\TesisUPTC\build\Conc\Conc.aux
-INPUT d:\Maestria\TesisUPTC\build\Conc\Conc.aux
-INPUT d:\Maestria\TesisUPTC\build\Conc\Conc.aux
-INPUT d:\Maestria\TesisUPTC\build\Anexos\Anexos.aux
-INPUT d:\Maestria\TesisUPTC\build\Anexos\Anexos.aux
-INPUT d:\Maestria\TesisUPTC\build\Anexos\Anexos.aux
-OUTPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\HojaTitulo\HojaTituloMSc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\HojaTitulo\HojaTituloMSc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\HojaTitulo\HojaTituloMSc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap1\Kap1.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap1\Kap1.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap1\Kap1.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap2\Kap2.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap2\Kap2.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap2\Kap2.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap3\Kap3.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap3\Kap3.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap3\Kap3.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap4\Kap4.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap4\Kap4.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap4\Kap4.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap5\Kap5.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap5\Kap5.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap5\Kap5.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap6\Kap6.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap6\Kap6.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap6\Kap6.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Conc\Conc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Conc\Conc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Conc\Conc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Anexos\Anexos.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Anexos\Anexos.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Anexos\Anexos.aux
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.aux
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -951,18 +951,18 @@ INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopd
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out
-OUTPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out
-OUTPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.pdf
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.pdf
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
@@ -982,7 +982,7 @@ INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdf
 INPUT .\HojaTitulo\HojaTituloMSc.tex
 INPUT .\HojaTitulo\HojaTituloMSc.tex
 INPUT .\HojaTitulo\HojaTituloMSc.tex
-OUTPUT d:\Maestria\TesisUPTC\build\HojaTitulo\HojaTituloMSc.aux
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\HojaTitulo\HojaTituloMSc.aux
 INPUT .\HojaTitulo\HojaTituloMSc.tex
 INPUT .\HojaTitulo\HojaTituloMSc.tex
 INPUT .\HojaTitulo\HojaTituloMSc.tex
@@ -1036,23 +1036,23 @@ INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc1
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss12.tfm
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.lof
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.lof
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.lof
-OUTPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.lof
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.lot
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.lot
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.lot
-OUTPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.lot
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.toc
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.toc
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.toc
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.lof
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.lof
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.lof
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.lof
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.lot
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.lot
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.lot
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.lot
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.toc
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.toc
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.toc
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
-OUTPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.toc
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.toc
 INPUT .\Kap1\Kap1.tex
 INPUT .\Kap1\Kap1.tex
 INPUT .\Kap1\Kap1.tex
-OUTPUT d:\Maestria\TesisUPTC\build\Kap1\Kap1.aux
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap1\Kap1.aux
 INPUT .\Kap1\Kap1.tex
 INPUT .\Kap1\Kap1.tex
 INPUT .\Kap1\Kap1.tex
@@ -1068,7 +1068,7 @@ INPUT .\Kap1\LuIG.png
 INPUT .\Kap2\Kap2.tex
 INPUT .\Kap2\Kap2.tex
 INPUT .\Kap2\Kap2.tex
-OUTPUT d:\Maestria\TesisUPTC\build\Kap2\Kap2.aux
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap2\Kap2.aux
 INPUT .\Kap2\Kap2.tex
 INPUT .\Kap2\Kap2.tex
 INPUT .\Kap2\Kap2.tex
@@ -1081,7 +1081,7 @@ INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx
 INPUT .\Kap3\Kap3.tex
 INPUT .\Kap3\Kap3.tex
 INPUT .\Kap3\Kap3.tex
-OUTPUT d:\Maestria\TesisUPTC\build\Kap3\Kap3.aux
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap3\Kap3.aux
 INPUT .\Kap3\Kap3.tex
 INPUT .\Kap3\Kap3.tex
 INPUT .\Kap3\Kap3.tex
@@ -1126,7 +1126,7 @@ INPUT .\Kap3\NIR.png
 INPUT .\Kap4\Kap4.tex
 INPUT .\Kap4\Kap4.tex
 INPUT .\Kap4\Kap4.tex
-OUTPUT d:\Maestria\TesisUPTC\build\Kap4\Kap4.aux
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap4\Kap4.aux
 INPUT .\Kap4\Kap4.tex
 INPUT .\Kap4\Kap4.tex
 INPUT .\Kap4\Kap4.tex
@@ -1185,7 +1185,7 @@ INPUT .\Kap4\fotoTemperatura.png
 INPUT .\Kap5\Kap5.tex
 INPUT .\Kap5\Kap5.tex
 INPUT .\Kap5\Kap5.tex
-OUTPUT d:\Maestria\TesisUPTC\build\Kap5\Kap5.aux
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap5\Kap5.aux
 INPUT .\Kap5\Kap5.tex
 INPUT .\Kap5\Kap5.tex
 INPUT .\Kap5\Kap5.tex
@@ -1220,7 +1220,7 @@ INPUT .\Kap5\TamPar.png
 INPUT .\Kap6\Kap6.tex
 INPUT .\Kap6\Kap6.tex
 INPUT .\Kap6\Kap6.tex
-OUTPUT d:\Maestria\TesisUPTC\build\Kap6\Kap6.aux
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap6\Kap6.aux
 INPUT .\Kap6\Kap6.tex
 INPUT .\Kap6\Kap6.tex
 INPUT .\Kap6\Kap6.tex
@@ -1258,7 +1258,7 @@ INPUT .\Kap6\FIG4.jpg
 INPUT .\Conc\Conc.tex
 INPUT .\Conc\Conc.tex
 INPUT .\Conc\Conc.tex
-OUTPUT d:\Maestria\TesisUPTC\build\Conc\Conc.aux
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Conc\Conc.aux
 INPUT .\Conc\Conc.tex
 INPUT .\Conc\Conc.tex
 INPUT .\Conc\Conc.tex
@@ -1268,7 +1268,7 @@ INPUT Conc\Conc.tex
 INPUT .\Anexos\Anexos.tex
 INPUT .\Anexos\Anexos.tex
 INPUT .\Anexos\Anexos.tex
-OUTPUT d:\Maestria\TesisUPTC\build\Anexos\Anexos.aux
+OUTPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Anexos\Anexos.aux
 INPUT .\Anexos\Anexos.tex
 INPUT .\Anexos\Anexos.tex
 INPUT .\Anexos\Anexos.tex
@@ -1519,41 +1519,41 @@ INPUT .\Anexos\EDXG9.png
 INPUT .\Anexos\EDXG9.png
 INPUT .\Anexos\EDXG9.png
 INPUT .\Anexos\EDXG9.png
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.bbl
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.bbl
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.bbl
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.bbl
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.bbl
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.bbl
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.bbl
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.bbl
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.aux
-INPUT d:\Maestria\TesisUPTC\build\HojaTitulo\HojaTituloMSc.aux
-INPUT d:\Maestria\TesisUPTC\build\HojaTitulo\HojaTituloMSc.aux
-INPUT d:\Maestria\TesisUPTC\build\HojaTitulo\HojaTituloMSc.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap1\Kap1.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap1\Kap1.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap1\Kap1.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap2\Kap2.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap2\Kap2.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap2\Kap2.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap3\Kap3.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap3\Kap3.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap3\Kap3.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap4\Kap4.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap4\Kap4.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap4\Kap4.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap5\Kap5.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap5\Kap5.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap5\Kap5.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap6\Kap6.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap6\Kap6.aux
-INPUT d:\Maestria\TesisUPTC\build\Kap6\Kap6.aux
-INPUT d:\Maestria\TesisUPTC\build\Conc\Conc.aux
-INPUT d:\Maestria\TesisUPTC\build\Conc\Conc.aux
-INPUT d:\Maestria\TesisUPTC\build\Conc\Conc.aux
-INPUT d:\Maestria\TesisUPTC\build\Anexos\Anexos.aux
-INPUT d:\Maestria\TesisUPTC\build\Anexos\Anexos.aux
-INPUT d:\Maestria\TesisUPTC\build\Anexos\Anexos.aux
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out
-INPUT d:\Maestria\TesisUPTC\build\EncabezadoTesisMSc.out
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\HojaTitulo\HojaTituloMSc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\HojaTitulo\HojaTituloMSc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\HojaTitulo\HojaTituloMSc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap1\Kap1.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap1\Kap1.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap1\Kap1.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap2\Kap2.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap2\Kap2.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap2\Kap2.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap3\Kap3.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap3\Kap3.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap3\Kap3.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap4\Kap4.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap4\Kap4.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap4\Kap4.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap5\Kap5.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap5\Kap5.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap5\Kap5.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap6\Kap6.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap6\Kap6.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Kap6\Kap6.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Conc\Conc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Conc\Conc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Conc\Conc.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Anexos\Anexos.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Anexos\Anexos.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\Anexos\Anexos.aux
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out
+INPUT d:\USUARIO ydmolina\Documents\MaestriaTesis\TesisMaestria\build\EncabezadoTesisMSc.out
 INPUT C:\Users\ydmolina\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\ydmolina\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\ydmolina\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
