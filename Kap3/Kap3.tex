@@ -44,7 +44,7 @@ a 2.0 (x $\leq$ 2.0) marcadas en la  con (*).
     \label{fig:patDRX}
 \end{figure}
 
-En la Figura \ref{fig:DRXamp} se presenta la región ampliada de 32 a 34 grados
+En la Figura \ref{fig:DRXamp} se presenta la región ampliada de (32 a 34) grados
 de la señal principal de los difractogramas del sistema
 \ce{Lu3Al_{5-X}Fe_{x}O12}:\ce{Ce^{3+}}, en donde, se aprecia mejor la similitud
 de cada una de las señales obtenidas y la tendencia del desplazamiento hacia
@@ -64,7 +64,7 @@ disminución de \ce{Al^{3+}}.
 
 \section{Refinamiento Rietveld}
 
-El análisis preliminar realizado con el programa X’Pert\textregistered High
+El análisis preliminar realizado con el programa X'Pert\textregistered High
 Score permitió
 identificar las fases cristalinas presentes en cada material, y sirvió como
 punto de partida para proceder con un análisis más detallado mediante el método
@@ -88,10 +88,10 @@ teórico.\\
 \end{figure}
 
 Los datos estructurales y los factores residuales de cada una de las muestras
-se pueden ver en la Tabla 2. Datos estructurales y factores residuales de las
+se pueden ver en la Tabla \ref{tab:estructurales}. Datos estructurales y factores residuales de las
 muestras de \ce{Lu3Al_{5-X}Fe_{x}O12}:\ce{Ce^{3+}}, donde se determinó la
 presencia como fase cristalina principal el granate \ce{Lu3Al5O12} (JCPDS
-01-073-1368) con estructura cubica y grupo espacial l3d (230). Para
+01-073-1368) con estructura cubica y grupo espacial Ia\={3}d (230). Para
 concentraciones bajas de \ce{Fe^{3+}} (0.0 $\leq$ x $\leq$ 4.5) se identificó
 como
 fase secundaria el \ce{LuAlO3} (JCPDS 00-024-0690). Sin embargo, se obtuvieron
@@ -99,6 +99,32 @@ materiales de fase única partir de valores de x mayores o iguales a 2.5 (x
 $\geq$ 2.5), lo que se le atribuye a la menor temperatura de fusión del
 precursor de \ce{Fe^{3+}} comparada con la del \ce{Al^{3+}}, la cual favoreció
 la difusión iónica y la formación la estructura del granate.\\
+
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+\begin{table}[]
+    \caption{Datos estructurales y factores residuales de la \ce{Lu3Al_{5-X}Fe_{x}O12}:\ce{Ce^{3+}}}
+    \label{tab:estructurales}
+    \begin{tabular}{clllll}
+    \hline
+    \multicolumn{1}{l}{Valor de x} & Fórmula                                         & \% Fase & Grupo Espacial & $\chi^{2}$            & $\%R_{f}$             \\ \hline
+    \multirow{2}{*}{0.0}           & \ce{Lu_{2.865}Ce_{0.135}Al_{5}O_{12}}           & 77.54   & Ia\={3}d (230)     & \multirow{2}{*}{1.22} & \multirow{2}{*}{7.05} \\
+                                   & \ce{LuAlO3}                                     & 16.46   & Pbnm (62)      &                       &                       \\
+    \multirow{2}{*}{0.5}           & \ce{Lu_{2.865}Ce_{0.135}Al_{4.5}Fe_{0.5}O_{12}} & 83.82   & Ia\={3}d (230)     & \multirow{2}{*}{1.31} & \multirow{2}{*}{6.65} \\
+                                   & \ce{LuAlO3}                                     & 12.17   & Pbnm (62)      &                       &                       \\
+    \multirow{2}{*}{1.0}           & \ce{Lu_{2.865}Ce_{0.135}Al_{4.0}Fe_{1.0}O_{12}} & 91.03   & Ia\={3}d (230)     & \multirow{2}{*}{1.37} & \multirow{2}{*}{7.68} \\
+                                   & \ce{LuAlO3}                                     & 8.97    & Pbnm (62)      &                       &                       \\
+    \multirow{2}{*}{1.5}           & \ce{Lu_{2.865}Ce_{0.135}Al_{3.5}Fe_{1.5}O_{12}} & 92.08   & Ia\={3}d (230)     & \multirow{2}{*}{1.12} & \multirow{2}{*}{7.93} \\
+                                   & \ce{LuAlO3}                                     & 5.92    & Pbnm (62)      &                       &                       \\
+    2.0                            & \ce{Lu_{2.865}Ce_{0.135}Al_{3.0}Fe_{2.0}O_{12}} & 94.05   & Ia\={3}d (230)     & \multirow{2}{*}{1.10} & \multirow{2}{*}{7.36} \\
+                                   & \ce{LuAlO3}                                     & 3.95    & Pbnm (62)      &                       &                       \\
+    2.5                            & \ce{Lu_{2.865}Ce_{0.135}Al_{2.5}Fe_{2.5}O_{12}} & 100     & Ia\={3}d (230)     & 1.12                  & 6.98                  \\
+    3.0                            & \ce{Lu_{2.865}Ce_{0.135}Al_{2.0}Fe_{3.0}O_{12}} & 100     & Ia\={3}d (230)     & 1.09                  & 5.45                  \\
+    3.5                            & \ce{Lu_{2.865}Ce_{0.135}Al_{1.5}Fe_{3.5}O_{12}} & 100     & Ia\={3}d (230)     & 1.04                  & 5.35                  \\
+    4.0                            & \ce{Lu_{2.865}Ce_{0.135}Al_{1.0}Fe_{4.0}O_{12}} & 100     & Ia\={3}d (230)     & 1.04                  & 5.92                  \\
+    4.5                            & \ce{Lu_{2.865}Ce_{0.135}Al_{0.5}Fe_{4.5}O_{12}} & 100     & Ia\={3}d (230)     & 1.03                  & 5.31                  \\ \hline
+    \end{tabular}
+    \end{table}
 
 En la Figura \ref{fig:para} a) se presenta la relación entre el parámetro de
 red de la
@@ -110,10 +136,10 @@ con la Ley de Vegard, que indica que el parámetro de red de la estructura
 cristalina
 resultante es una media ponderada de los constituyentes \cite{Kempter1966,King1921}. En la Figura
 \ref{fig:para}
-b) podemos observar representación en tres dimensiones (3D) de la celda unidad
+(b) podemos observar representación en tres dimensiones (3D) de la celda unidad
 siguiendo
 los datos obtenidos del refinamiento para el sistema granate
-\ce{Lu3Al_{5-X}Fe_{x}O12}:\ce{Ce^{3+}}, donde, los átomos de Lu y Ce ocupan los
+\ce{Lu3Al_{5-X}Fe_{x}O12}:\ce{Ce^{3+}}, donde, los átomos de \ce{Lu} y \ce{Ce} ocupan los
 sitios 24(c) formando un dodecaedro, los átomos de Al y Fe ocupan los sitios
 24(d) formando un tetraedro, y los sitios 16(a) formando un octaedro.\\
 
@@ -151,7 +177,7 @@ atribuyen: absorción electrónica debido a la transferencia de carga
 oxígeno-metal (I), y absorciones vibratorias atribuidas al estiramiento ($\upsilon$ ) y
 flexión ($\sigma$) de la unión metal-oxígeno en configuraciones octaedro (II) y
 tetraedro (III). Las bandas asociadas a la transferencia de carga oxígeno-metal
-se encuentran en el rango espectral 800-1100 nm \cite{Rossman2019}. Al aumentar la concentración
+se encuentran en el rango espectral (800-1100) nm \cite{Rossman2019}. Al aumentar la concentración
 \ce{Fe^{3+}}, la banda exhibió un desplazamiento hacia longitudes de onda más largas
 (disminución de la energía), esto se atribuye a las variaciones en los
 poliedros locales y la mezcla de estados excitados \cite{Krambrock2013}. Los cationes trivalentes
